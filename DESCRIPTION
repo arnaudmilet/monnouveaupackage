@@ -1,0 +1,16 @@
+Package: monnouveaupackage
+Title: demo mardi
+Version: 0.0.0.9000
+Authors@R: person("arnaud", "milet", email = "first.last@example.com", role = c("aut", "cre"))
+Description: demo mardi.
+Depends: R (>= 3.4.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    magrittr
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

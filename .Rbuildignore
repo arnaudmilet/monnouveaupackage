@@ -1,0 +1,6 @@
+^data-raw$
+^Meta$
+^doc$
+^README\.Rmd$
+^monnouveaupackage\.Rproj$
+^\.Rproj\.user$
