@@ -3,6 +3,8 @@
 monnouveaupackage
 =================
 
+Ici description à venir
+
 The goal of monnouveaupackage is to ... Il a été développé par une équipe de l'[INRA](http://www.inra.fr/).
 
 Nous aellons voir le versionnage avec cet exemple.
