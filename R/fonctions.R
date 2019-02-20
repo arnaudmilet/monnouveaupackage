@@ -51,3 +51,30 @@ bienvenue_h<-function(heure){
   bienvenue_interne(heure)%>%
     print()
 }
+
+
+#' @title Fonction byebye
+#'
+#' @description Fonction qui renvoie au revoir
+#'
+#' @name byebye
+#'
+#' @param nom une chaine de carctere
+#'
+#' @import magrittr
+#'
+#' @return un print en console
+#'
+#' @examples
+#' byebye("Benoit")
+#' \dontrun{
+#' byebye("Boris")
+#' }
+#'
+#' @export
+byebye<-function(nom){
+
+  "Au revoir " %>%
+    paste0(nom)%>%
+    print()
+}

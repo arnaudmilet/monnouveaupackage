@@ -2,4 +2,5 @@
 
 export(bienvenue)
 export(bienvenue_h)
+export(byebye)
 import(magrittr)
