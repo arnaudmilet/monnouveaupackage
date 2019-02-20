@@ -3,11 +3,7 @@
 monnouveaupackage
 =================
 
-<<<<<<< HEAD
-Le package monnouveaupackage sert à ....
-=======
 Ici description à venir
->>>>>>> 9dbff28ac295e5380b6a63c38fe22c085d204150
 
 The goal of monnouveaupackage is to ... Il a été développé par une équipe de l'[INRA](http://www.inra.fr/).
 
